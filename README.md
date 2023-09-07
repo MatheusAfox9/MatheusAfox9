@@ -6,9 +6,7 @@ Sou entusiasta sobre tecnologia e sempre tive vontade de aprender a desenvolver 
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusataide9/)](https://www.linkedin.com/in/matheusataide9/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAfox9&theme=radical&layout=compact&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias de estudo
+## Tecnologias
 <div style="display: inline-block"><br/>
 
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
