@@ -1,4 +1,11 @@
-## Eu sou Matheus Ataide, sou contador e estudante de Sistemas para internet. 
+## Olá, pessoal 👋
+
+Meu nome é Matheus Ataide e sou contador a mais de 10 anos. Atualmente, estou estudando para ser um desenvolvedor backend.
+
+Sou entusiasta sobre tecnologia e sempre tive vontade de aprender a desenvolver software. Estou animado para mudar de carreira e aplicar meus conhecimentos de contabilidade para o desenvolvimento de novos produtos e serviços.
+
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusataide9/)](https://www.linkedin.com/in/matheusataide9/)
+
 <a href="https://www.linkedin.com/in/matheusataide9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAfox9&theme=radical&layout=compact&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
