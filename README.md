@@ -6,7 +6,7 @@ Sou entusiasta sobre tecnologia e sempre tive vontade de aprender a desenvolver 
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusataide9/)](https://www.linkedin.com/in/matheusataide9/)
 
-## Tecnologias
+## 🚀 Tecnologias
 <div style="display: inline-block"><br/>
 
 Backend (Atual foco de estudos): 
