@@ -1,4 +1,4 @@
-## Olá, pessoal 👋
+## Olá, pessoal 🖖
 
 Meu nome é Matheus Ataide e sou contador a mais de 10 anos. Atualmente, estou estudando para ser um desenvolvedor backend.
 
