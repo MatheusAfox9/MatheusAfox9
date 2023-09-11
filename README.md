@@ -6,10 +6,10 @@ Sou um eterno inconformado de como as coisas são. Sempre me perguntei se as coi
 
 Sou entusiasta sobre tecnologia e sempre tive vontade de aprender a desenvolver software. Acredito que a tecnologia tem o potencial de mudar o mundo para melhor, e eu quero fazer parte dessa mudança.
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ataide-ab8436290/)](https://www.linkedin.com/in/matheus-ataide-ab8436290/)
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusataidedev/)](https://www.linkedin.com/in/matheusataidedev/)
 
 ## 🚀 Tecnologias
-<div style="display: inline-block"><br/>
+<div style="display: inline-block"><br/> 
 
 Backend (Atual foco de estudos): 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
